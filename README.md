@@ -32,7 +32,7 @@ In this project, I'm going to show how to use data science and machine learning 
 * **First Step:** I've imported the patient's data set that has attributes about the patient and the most appropriate drug for them.
 * **Second Step:** I've analyzed the data by checking its data quality: missing values, outliers, data format, etc. After this, I've visualized the dataset to extract insights about the data.
 * **Third Step:** After checking the data quality and visualizing the data set, I've have pre-processed the data set: converted categorical values to numerical values.
-* **Fourth Step:** I've have then created two subsets from the orgincal data set called:
+* **Fourth Step:** I've have then created two subsets from the orginal data set called:
   * X_train: *Used to train the Machine Learning Models*
   * X_test: *Used to test the performance of the trained models*
   
