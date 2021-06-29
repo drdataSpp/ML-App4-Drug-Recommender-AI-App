@@ -3,7 +3,7 @@
 ***An innovative AI-tool to recommend drugs based on one's attributes***
 
 ## Table Of Contents
-* App Link
+* App Preview
 * Dataset Link
 * How the decisions are made?
 * Business Problem
@@ -14,8 +14,8 @@
 * License
 * Credits
 
-## App Link
-[Cick Here](https://github.com/drdataSpp/ML-App4-Drug-Recommender-AI-App/blob/master/Drug%20Recommender%20App.mp4)
+## App Preview
+![Cick Here](https://github.com/drdataSpp/ML-App4-Drug-Recommender-AI-App/blob/master/Drug%20Recommender%20App.gif)
 
 ## Dataset Link
 [Please click here](https://www.kaggle.com/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees)
